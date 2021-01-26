@@ -1,4 +1,4 @@
-# flyway
+# flyway.lab
 
 version control for your database
 
